@@ -1,0 +1,432 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pre-commit",
+          "description": "This hook is called before obtaining the proposed commit message.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-01-19T11:34:43Z",
+            "owner": "aitemr",
+            "repo": "awesome-git-hooks",
+            "stars": 974
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "prepare-commit-msg",
+          "description": "Called after receiving the default commit message, just prior to firing up the commit message editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-01-19T11:34:43Z",
+            "owner": "aitemr",
+            "repo": "awesome-git-hooks",
+            "stars": 974
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pre-receive",
+          "description": "This is called on the remote repo just before updating the pushed refs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-01-19T11:34:43Z",
+            "owner": "aitemr",
+            "repo": "awesome-git-hooks",
+            "stars": 974
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "commit-msg",
+          "description": "Can be used to adjust the message after it has been edited in order to ensure conformity to a standard or to reject based on any criteria.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-01-19T11:34:43Z",
+            "owner": "aitemr",
+            "repo": "awesome-git-hooks",
+            "stars": 974
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pre-push",
+          "description": "Called prior to a push to a remote. In addition to the parameters, additional information, separated by a space is passed in through stdin in the form of .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-01-19T11:34:43Z",
+            "owner": "aitemr",
+            "repo": "awesome-git-hooks",
+            "stars": 974
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pre-auto-gc",
+          "description": "Is used to do some checks before automatically cleaning repos.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-01-19T11:34:43Z",
+            "owner": "aitemr",
+            "repo": "awesome-git-hooks",
+            "stars": 974
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pre-rebase",
+          "description": "Called when rebasing a branch. Mainly used to halt the rebase if it is not desirable.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-01-19T11:34:43Z",
+            "owner": "aitemr",
+            "repo": "awesome-git-hooks",
+            "stars": 974
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "applypatch-msg",
+          "description": "Can edit the commit message file and is often used to verify or actively format a patch's message to a project's standards.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-01-19T11:34:43Z",
+            "owner": "aitemr",
+            "repo": "awesome-git-hooks",
+            "stars": 974
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "post-receive",
+          "description": "This is run on the remote when pushing after the all refs have been updated. It does not take parameters, but receives info through stdin in the form of .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-01-19T11:34:43Z",
+            "owner": "aitemr",
+            "repo": "awesome-git-hooks",
+            "stars": 974
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "post-rewrite",
+          "description": "This is called when git commands are rewriting already committed data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-01-19T11:34:43Z",
+            "owner": "aitemr",
+            "repo": "awesome-git-hooks",
+            "stars": 974
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "post-commit",
+          "description": "Called after a successful commit. Useful for triggering notifications, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-01-19T11:34:43Z",
+            "owner": "aitemr",
+            "repo": "awesome-git-hooks",
+            "stars": 974
+          }
+        }
+      ],
+      "title": "Useful Git Hooks scripts"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Husky",
+          "description": "Git hooks made easy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-19T23:03:16Z",
+            "owner": "typicode",
+            "repo": "husky",
+            "stars": 35268
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pre-commit",
+          "description": "A framework for managing and maintaining multi-language pre-commit hooks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T22:07:27Z",
+            "owner": "pre-commit",
+            "repo": "pre-commit",
+            "stars": 15504
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lefthook",
+          "description": "Fast and powerful Git hooks manager for any type of projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-03T09:42:51Z",
+            "owner": "evilmartians",
+            "repo": "lefthook",
+            "stars": 8640
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "overcommit",
+          "description": "A fully configurable and extendable Git hook manager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-12T18:34:32Z",
+            "owner": "sds",
+            "repo": "overcommit",
+            "stars": 4007
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Komondor",
+          "description": "Git Hooks for Swift projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2023-03-02T19:05:18Z",
+            "owner": "shibapm",
+            "repo": "Komondor",
+            "stars": 560
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Githooks",
+          "description": "Auto-install Git hook, that supports hooks in any language checked into Git and also shared repos.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-08-26T02:34:54Z",
+            "owner": "rycus86",
+            "repo": "githooks",
+            "stars": 401
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Grunt GitHooks",
+          "description": "Setup, manage and update your hooks with Grunt. Can be used with all languages, supports templates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-08-03T19:29:21Z",
+            "owner": "wecodemore",
+            "repo": "grunt-githooks",
+            "stars": 315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Autohook",
+          "description": "A very, very small Git hook manager with focus on automation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-07-01T19:31:45Z",
+            "owner": "Autohook",
+            "repo": "Autohook",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quickhook",
+          "description": "Faster Git hook (pre-commit, etc.) runner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-28T06:01:09Z",
+            "owner": "dirk",
+            "repo": "quickhook",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHooksVS",
+          "description": "A Visual Studio extension for managing Git hooks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-07-09T15:15:44Z",
+            "owner": "mstranne",
+            "repo": "GitHooksVS",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Lolcommits",
+          "description": "Takes a snapshot with your webcam every time you git commit code, and archives a lolcat style image with it.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-10T19:45:26Z",
+            "owner": "lolcommits",
+            "repo": "lolcommits",
+            "stars": 4816
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Podmena",
+          "description": "Enhance your commit messages adding random emoji to it.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-07T09:37:30Z",
+            "owner": "bmwant",
+            "repo": "podmena",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitPHPHooks",
+          "description": "Write your hooks in PHP, manage and organize them on a task and project level. Has an additional Hooks library on GitHub.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2016-04-05T00:43:01Z",
+            "owner": "wecodemore",
+            "repo": "GitPHPHooks",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Commit Colors",
+          "description": "See a color swatch in your terminal every time you author a commit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-11-13T16:52:58Z",
+            "owner": "sparkbox",
+            "repo": "commit-colors",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Git::Hooks",
+          "description": "A framework for implementing Git (and Gerrit) hooks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2024-06-16T20:57:20Z",
+            "owner": "gnustavo",
+            "repo": "Git-Hooks",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "git-hooks-php",
+          "description": "Git hooks for PHP based projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2018-04-23T20:59:41Z",
+            "owner": "BernardoSilva",
+            "repo": "git-hooks-php",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "commandbox-githooks",
+          "description": "Git hooks for CommandBox CFML based projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ColdFusion",
+            "last_commit": "2020-03-27T15:23:12Z",
+            "owner": "elpete",
+            "repo": "commandbox-githooks",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Projects"
+    },
+    {
+      "description": "If you have a question, find a bug, or just want to say hi, please open an issue on GitHub. If you want to contribute, please read the guide.",
+      "items": [],
+      "title": "Support"
+    },
+    {
+      "description": "To the extent possible under law, Islam Temirbek has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:11:58.669Z",
+    "original_repository": "aitemr/awesome-git-hooks",
+    "original_repository_sha": "4b6217452fe422014378b2e506e5f4bee615eeab",
+    "enhanced_repository": "enhansome/enhansome-git-hooks",
+    "enhanced_repository_description": null,
+    "title": "Awesome Git Hooks with stars"
+  }
+}
