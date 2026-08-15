@@ -174,7 +174,7 @@
             "last_commit": "2026-03-19T23:03:16Z",
             "owner": "typicode",
             "repo": "husky",
-            "stars": 35270
+            "stars": 35273
           }
         },
         {
@@ -188,7 +188,7 @@
             "last_commit": "2026-08-10T22:07:27Z",
             "owner": "pre-commit",
             "repo": "pre-commit",
-            "stars": 15505
+            "stars": 15507
           }
         },
         {
@@ -202,7 +202,7 @@
             "last_commit": "2026-08-03T09:42:51Z",
             "owner": "evilmartians",
             "repo": "lefthook",
-            "stars": 8647
+            "stars": 8650
           }
         },
         {
@@ -422,7 +422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T05:13:35.710Z",
+    "last_updated": "2026-08-15T04:01:55.923Z",
     "original_repository": "aitemr/awesome-git-hooks",
     "original_repository_sha": "4b6217452fe422014378b2e506e5f4bee615eeab",
     "enhanced_repository": "enhansome/enhansome-git-hooks",
