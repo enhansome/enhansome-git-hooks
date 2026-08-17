@@ -14,7 +14,7 @@
             "last_commit": "2026-01-19T11:34:43Z",
             "owner": "aitemr",
             "repo": "awesome-git-hooks",
-            "stars": 975
+            "stars": 976
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-01-19T11:34:43Z",
             "owner": "aitemr",
             "repo": "awesome-git-hooks",
-            "stars": 975
+            "stars": 976
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-01-19T11:34:43Z",
             "owner": "aitemr",
             "repo": "awesome-git-hooks",
-            "stars": 975
+            "stars": 976
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-01-19T11:34:43Z",
             "owner": "aitemr",
             "repo": "awesome-git-hooks",
-            "stars": 975
+            "stars": 976
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-01-19T11:34:43Z",
             "owner": "aitemr",
             "repo": "awesome-git-hooks",
-            "stars": 975
+            "stars": 976
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2026-01-19T11:34:43Z",
             "owner": "aitemr",
             "repo": "awesome-git-hooks",
-            "stars": 975
+            "stars": 976
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2026-01-19T11:34:43Z",
             "owner": "aitemr",
             "repo": "awesome-git-hooks",
-            "stars": 975
+            "stars": 976
           }
         },
         {
@@ -112,7 +112,7 @@
             "last_commit": "2026-01-19T11:34:43Z",
             "owner": "aitemr",
             "repo": "awesome-git-hooks",
-            "stars": 975
+            "stars": 976
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-01-19T11:34:43Z",
             "owner": "aitemr",
             "repo": "awesome-git-hooks",
-            "stars": 975
+            "stars": 976
           }
         },
         {
@@ -140,7 +140,7 @@
             "last_commit": "2026-01-19T11:34:43Z",
             "owner": "aitemr",
             "repo": "awesome-git-hooks",
-            "stars": 975
+            "stars": 976
           }
         },
         {
@@ -154,7 +154,7 @@
             "last_commit": "2026-01-19T11:34:43Z",
             "owner": "aitemr",
             "repo": "awesome-git-hooks",
-            "stars": 975
+            "stars": 976
           }
         }
       ],
@@ -174,7 +174,7 @@
             "last_commit": "2026-03-19T23:03:16Z",
             "owner": "typicode",
             "repo": "husky",
-            "stars": 35272
+            "stars": 35275
           }
         },
         {
@@ -188,7 +188,7 @@
             "last_commit": "2026-08-10T22:07:27Z",
             "owner": "pre-commit",
             "repo": "pre-commit",
-            "stars": 15507
+            "stars": 15506
           }
         },
         {
@@ -202,7 +202,7 @@
             "last_commit": "2026-08-03T09:42:51Z",
             "owner": "evilmartians",
             "repo": "lefthook",
-            "stars": 8653
+            "stars": 8655
           }
         },
         {
@@ -422,7 +422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T04:06:56.947Z",
+    "last_updated": "2026-08-17T04:09:57.065Z",
     "original_repository": "aitemr/awesome-git-hooks",
     "original_repository_sha": "4b6217452fe422014378b2e506e5f4bee615eeab",
     "enhanced_repository": "enhansome/enhansome-git-hooks",
