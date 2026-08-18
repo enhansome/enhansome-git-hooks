@@ -174,7 +174,7 @@
             "last_commit": "2026-03-19T23:03:16Z",
             "owner": "typicode",
             "repo": "husky",
-            "stars": 35275
+            "stars": 35277
           }
         },
         {
@@ -185,7 +185,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T22:07:27Z",
+            "last_commit": "2026-08-17T23:37:08Z",
             "owner": "pre-commit",
             "repo": "pre-commit",
             "stars": 15506
@@ -199,10 +199,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-03T09:42:51Z",
+            "last_commit": "2026-08-17T13:13:47Z",
             "owner": "evilmartians",
             "repo": "lefthook",
-            "stars": 8655
+            "stars": 8661
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-08-12T18:34:32Z",
             "owner": "sds",
             "repo": "overcommit",
-            "stars": 4007
+            "stars": 4006
           }
         },
         {
@@ -422,7 +422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T04:09:57.065Z",
+    "last_updated": "2026-08-18T04:05:19.551Z",
     "original_repository": "aitemr/awesome-git-hooks",
     "original_repository_sha": "4b6217452fe422014378b2e506e5f4bee615eeab",
     "enhanced_repository": "enhansome/enhansome-git-hooks",
