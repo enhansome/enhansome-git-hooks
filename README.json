@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159375334,
             "language": "Shell",
             "last_commit": "2026-01-19T11:34:43Z",
             "owner": "aitemr",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159375334,
             "language": "Shell",
             "last_commit": "2026-01-19T11:34:43Z",
             "owner": "aitemr",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159375334,
             "language": "Shell",
             "last_commit": "2026-01-19T11:34:43Z",
             "owner": "aitemr",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159375334,
             "language": "Shell",
             "last_commit": "2026-01-19T11:34:43Z",
             "owner": "aitemr",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159375334,
             "language": "Shell",
             "last_commit": "2026-01-19T11:34:43Z",
             "owner": "aitemr",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159375334,
             "language": "Shell",
             "last_commit": "2026-01-19T11:34:43Z",
             "owner": "aitemr",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159375334,
             "language": "Shell",
             "last_commit": "2026-01-19T11:34:43Z",
             "owner": "aitemr",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159375334,
             "language": "Shell",
             "last_commit": "2026-01-19T11:34:43Z",
             "owner": "aitemr",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159375334,
             "language": "Shell",
             "last_commit": "2026-01-19T11:34:43Z",
             "owner": "aitemr",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159375334,
             "language": "Shell",
             "last_commit": "2026-01-19T11:34:43Z",
             "owner": "aitemr",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159375334,
             "language": "Shell",
             "last_commit": "2026-01-19T11:34:43Z",
             "owner": "aitemr",
@@ -161,7 +172,7 @@
       "title": "Useful Git Hooks scripts"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21125024,
             "language": "JavaScript",
             "last_commit": "2026-03-19T23:03:16Z",
             "owner": "typicode",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17689377,
             "language": "Python",
             "last_commit": "2026-08-17T23:37:08Z",
             "owner": "pre-commit",
@@ -198,11 +211,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 169250119,
             "language": "Go",
             "last_commit": "2026-08-17T13:13:47Z",
             "owner": "evilmartians",
             "repo": "lefthook",
-            "stars": 8664
+            "stars": 8666
           }
         },
         {
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1520275,
             "language": "Ruby",
             "last_commit": "2026-08-12T18:34:32Z",
             "owner": "sds",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 158900331,
             "language": "Swift",
             "last_commit": "2023-03-02T19:05:18Z",
             "owner": "shibapm",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140637148,
             "language": "Shell",
             "last_commit": "2025-08-26T02:34:54Z",
             "owner": "rycus86",
@@ -254,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12528403,
             "language": "JavaScript",
             "last_commit": "2022-08-03T19:29:21Z",
             "owner": "wecodemore",
@@ -268,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80595762,
             "language": "Shell",
             "last_commit": "2025-07-01T19:31:45Z",
             "owner": "Autohook",
@@ -282,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66737553,
             "language": "Go",
             "last_commit": "2026-07-28T06:01:09Z",
             "owner": "dirk",
@@ -296,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 929418093,
             "language": "C#",
             "last_commit": "2025-07-09T15:15:44Z",
             "owner": "mstranne",
@@ -307,7 +328,7 @@
       "title": "Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -316,8 +337,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2499845,
             "language": "Ruby",
-            "last_commit": "2026-08-10T19:45:26Z",
+            "last_commit": "2026-08-19T05:21:01Z",
             "owner": "lolcommits",
             "repo": "lolcommits",
             "stars": 4816
@@ -330,6 +352,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128072071,
             "language": "Python",
             "last_commit": "2022-03-07T09:37:30Z",
             "owner": "bmwant",
@@ -344,6 +367,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21986540,
             "language": "PHP",
             "last_commit": "2016-04-05T00:43:01Z",
             "owner": "wecodemore",
@@ -358,6 +382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 148866696,
             "language": "Go",
             "last_commit": "2022-11-13T16:52:58Z",
             "owner": "sparkbox",
@@ -372,6 +397,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4106322,
             "language": "Perl",
             "last_commit": "2024-06-16T20:57:20Z",
             "owner": "gnustavo",
@@ -386,6 +412,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44457552,
             "language": "Shell",
             "last_commit": "2018-04-23T20:59:41Z",
             "owner": "BernardoSilva",
@@ -400,6 +427,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103486239,
             "language": "ColdFusion",
             "last_commit": "2020-03-27T15:23:12Z",
             "owner": "elpete",
@@ -409,21 +437,12 @@
         }
       ],
       "title": "Projects"
-    },
-    {
-      "description": "If you have a question, find a bug, or just want to say hi, please open an issue on GitHub. If you want to contribute, please read the guide.",
-      "items": [],
-      "title": "Support"
-    },
-    {
-      "description": "To the extent possible under law, Islam Temirbek has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T04:05:53.633Z",
+    "last_updated": "2026-08-19T12:29:16.182Z",
     "original_repository": "aitemr/awesome-git-hooks",
+    "original_repository_id": 159375334,
     "original_repository_sha": "4b6217452fe422014378b2e506e5f4bee615eeab",
     "enhanced_repository": "enhansome/enhansome-git-hooks",
     "enhanced_repository_description": null,
