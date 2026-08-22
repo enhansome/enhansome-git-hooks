@@ -186,7 +186,7 @@
             "last_commit": "2026-03-19T23:03:16Z",
             "owner": "typicode",
             "repo": "husky",
-            "stars": 35277
+            "stars": 35278
           }
         },
         {
@@ -213,10 +213,10 @@
             "archived": false,
             "id": 169250119,
             "language": "Go",
-            "last_commit": "2026-08-17T13:13:47Z",
+            "last_commit": "2026-08-21T08:12:46Z",
             "owner": "evilmartians",
             "repo": "lefthook",
-            "stars": 8677
+            "stars": 8697
           }
         },
         {
@@ -347,21 +347,6 @@
         },
         {
           "node_type": "item",
-          "title": "Podmena",
-          "description": "Enhance your commit messages adding random emoji to it.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 128072071,
-            "language": "Python",
-            "last_commit": "2022-03-07T09:37:30Z",
-            "owner": "bmwant",
-            "repo": "podmena",
-            "stars": 64
-          }
-        },
-        {
-          "node_type": "item",
           "title": "GitPHPHooks",
           "description": "Write your hooks in PHP, manage and organize them on a task and project level. Has an additional Hooks library on GitHub.",
           "children": [],
@@ -372,6 +357,21 @@
             "last_commit": "2016-04-05T00:43:01Z",
             "owner": "wecodemore",
             "repo": "GitPHPHooks",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Podmena",
+          "description": "Enhance your commit messages adding random emoji to it.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 128072071,
+            "language": "Python",
+            "last_commit": "2022-03-07T09:37:30Z",
+            "owner": "bmwant",
+            "repo": "podmena",
             "stars": 64
           }
         },
@@ -440,7 +440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T04:07:53.464Z",
+    "last_updated": "2026-08-22T04:03:34.454Z",
     "original_repository": "aitemr/awesome-git-hooks",
     "original_repository_id": 159375334,
     "original_repository_sha": "4b6217452fe422014378b2e506e5f4bee615eeab",
