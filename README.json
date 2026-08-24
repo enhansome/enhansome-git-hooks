@@ -186,7 +186,7 @@
             "last_commit": "2026-03-19T23:03:16Z",
             "owner": "typicode",
             "repo": "husky",
-            "stars": 35281
+            "stars": 35283
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-08-17T23:37:08Z",
             "owner": "pre-commit",
             "repo": "pre-commit",
-            "stars": 15526
+            "stars": 15532
           }
         },
         {
@@ -213,10 +213,10 @@
             "archived": false,
             "id": 169250119,
             "language": "Go",
-            "last_commit": "2026-08-21T08:12:46Z",
+            "last_commit": "2026-08-24T09:22:07Z",
             "owner": "evilmartians",
             "repo": "lefthook",
-            "stars": 8715
+            "stars": 8719
           }
         },
         {
@@ -440,7 +440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:12:27.359Z",
+    "last_updated": "2026-08-24T14:16:13.792Z",
     "original_repository": "aitemr/awesome-git-hooks",
     "original_repository_id": 159375334,
     "original_repository_sha": "4b6217452fe422014378b2e506e5f4bee615eeab",
