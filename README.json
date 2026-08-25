@@ -231,7 +231,7 @@
             "last_commit": "2026-08-12T18:34:32Z",
             "owner": "sds",
             "repo": "overcommit",
-            "stars": 4008
+            "stars": 4007
           }
         },
         {
@@ -440,7 +440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T04:07:18.553Z",
+    "last_updated": "2026-08-25T06:10:25.546Z",
     "original_repository": "aitemr/awesome-git-hooks",
     "original_repository_id": 159375334,
     "original_repository_sha": "4b6217452fe422014378b2e506e5f4bee615eeab",
