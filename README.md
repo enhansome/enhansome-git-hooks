@@ -15,24 +15,24 @@ Git Hooks are scripts that run automatically every time a particular event occur
 
 ## Useful Git Hooks scripts
 
-* [pre-commit](https://github.com/aitemr/awesome-git-hooks/tree/master/pre-commit) ⭐ 977 | 🐛 3 | 🌐 Shell | 📅 2026-01-19 - This hook is called before obtaining the proposed commit message.
-* [prepare-commit-msg](https://github.com/aitemr/awesome-git-hooks/tree/master/prepare-commit-msg) ⭐ 977 | 🐛 3 | 🌐 Shell | 📅 2026-01-19 - Called after receiving the default commit message, just prior to firing up the commit message editor.
-* [pre-receive](https://github.com/aitemr/awesome-git-hooks/tree/master/pre-receive) ⭐ 977 | 🐛 3 | 🌐 Shell | 📅 2026-01-19 - This is called on the remote repo just before updating the pushed refs.
-* [commit-msg](https://github.com/aitemr/awesome-git-hooks/tree/master/commit-msg) ⭐ 977 | 🐛 3 | 🌐 Shell | 📅 2026-01-19 - Can be used to adjust the message after it has been edited in order to ensure conformity to a standard or to reject based on any criteria.
-* [pre-push](https://github.com/aitemr/awesome-git-hooks/tree/master/pre-push) ⭐ 977 | 🐛 3 | 🌐 Shell | 📅 2026-01-19 - Called prior to a push to a remote. In addition to the parameters, additional information, separated by a space is passed in through stdin in the form of `<local ref> <local sha1> <remote ref> <remote sha1>`.
-* [pre-auto-gc](https://github.com/aitemr/awesome-git-hooks/tree/master/pre-auto-gc) ⭐ 977 | 🐛 3 | 🌐 Shell | 📅 2026-01-19 - Is used to do some checks before automatically cleaning repos.
-* [pre-rebase](https://github.com/aitemr/awesome-git-hooks/tree/master/pre-rebase) ⭐ 977 | 🐛 3 | 🌐 Shell | 📅 2026-01-19 - Called when rebasing a branch. Mainly used to halt the rebase if it is not desirable.
-* [applypatch-msg](https://github.com/aitemr/awesome-git-hooks/tree/master/applypatch-msg) ⭐ 977 | 🐛 3 | 🌐 Shell | 📅 2026-01-19 - Can edit the commit message file and is often used to verify or actively format a patch's message to a project's standards.
-* [post-receive](https://github.com/aitemr/awesome-git-hooks/tree/master/post-receive) ⭐ 977 | 🐛 3 | 🌐 Shell | 📅 2026-01-19 - This is run on the remote when pushing after the all refs have been updated. It does not take parameters, but receives info through stdin in the form of `<old-value> <new-value> <ref-name>`.
-* [post-rewrite](https://github.com/aitemr/awesome-git-hooks/tree/master/post-rewrite) ⭐ 977 | 🐛 3 | 🌐 Shell | 📅 2026-01-19 - This is called when git commands are rewriting already committed data.
-* [post-commit](https://github.com/aitemr/awesome-git-hooks/tree/master/post-commit) ⭐ 977 | 🐛 3 | 🌐 Shell | 📅 2026-01-19 - Called after a successful commit. Useful for triggering notifications, etc.
+* [pre-commit](https://github.com/aitemr/awesome-git-hooks/tree/master/pre-commit) ⭐ 978 | 🐛 3 | 🌐 Shell | 📅 2026-01-19 - This hook is called before obtaining the proposed commit message.
+* [prepare-commit-msg](https://github.com/aitemr/awesome-git-hooks/tree/master/prepare-commit-msg) ⭐ 978 | 🐛 3 | 🌐 Shell | 📅 2026-01-19 - Called after receiving the default commit message, just prior to firing up the commit message editor.
+* [pre-receive](https://github.com/aitemr/awesome-git-hooks/tree/master/pre-receive) ⭐ 978 | 🐛 3 | 🌐 Shell | 📅 2026-01-19 - This is called on the remote repo just before updating the pushed refs.
+* [commit-msg](https://github.com/aitemr/awesome-git-hooks/tree/master/commit-msg) ⭐ 978 | 🐛 3 | 🌐 Shell | 📅 2026-01-19 - Can be used to adjust the message after it has been edited in order to ensure conformity to a standard or to reject based on any criteria.
+* [pre-push](https://github.com/aitemr/awesome-git-hooks/tree/master/pre-push) ⭐ 978 | 🐛 3 | 🌐 Shell | 📅 2026-01-19 - Called prior to a push to a remote. In addition to the parameters, additional information, separated by a space is passed in through stdin in the form of `<local ref> <local sha1> <remote ref> <remote sha1>`.
+* [pre-auto-gc](https://github.com/aitemr/awesome-git-hooks/tree/master/pre-auto-gc) ⭐ 978 | 🐛 3 | 🌐 Shell | 📅 2026-01-19 - Is used to do some checks before automatically cleaning repos.
+* [pre-rebase](https://github.com/aitemr/awesome-git-hooks/tree/master/pre-rebase) ⭐ 978 | 🐛 3 | 🌐 Shell | 📅 2026-01-19 - Called when rebasing a branch. Mainly used to halt the rebase if it is not desirable.
+* [applypatch-msg](https://github.com/aitemr/awesome-git-hooks/tree/master/applypatch-msg) ⭐ 978 | 🐛 3 | 🌐 Shell | 📅 2026-01-19 - Can edit the commit message file and is often used to verify or actively format a patch's message to a project's standards.
+* [post-receive](https://github.com/aitemr/awesome-git-hooks/tree/master/post-receive) ⭐ 978 | 🐛 3 | 🌐 Shell | 📅 2026-01-19 - This is run on the remote when pushing after the all refs have been updated. It does not take parameters, but receives info through stdin in the form of `<old-value> <new-value> <ref-name>`.
+* [post-rewrite](https://github.com/aitemr/awesome-git-hooks/tree/master/post-rewrite) ⭐ 978 | 🐛 3 | 🌐 Shell | 📅 2026-01-19 - This is called when git commands are rewriting already committed data.
+* [post-commit](https://github.com/aitemr/awesome-git-hooks/tree/master/post-commit) ⭐ 978 | 🐛 3 | 🌐 Shell | 📅 2026-01-19 - Called after a successful commit. Useful for triggering notifications, etc.
 
 ## Tools
 
 * [Husky](https://github.com/typicode/husky) ⭐ 35,283 | 🐛 108 | 🌐 JavaScript | 📅 2026-03-19 - Git hooks made easy.
 * [pre-commit](https://github.com/pre-commit/pre-commit) ⭐ 15,532 | 🐛 26 | 🌐 Python | 📅 2026-08-17 - A framework for managing and maintaining multi-language pre-commit hooks.
-* [Lefthook](https://github.com/Arkweid/lefthook) ⭐ 8,719 | 🐛 90 | 🌐 Go | 📅 2026-08-24 - Fast and powerful Git hooks manager for any type of projects.
-* [overcommit](https://github.com/brigade/overcommit/) ⭐ 4,007 | 🐛 33 | 🌐 Ruby | 📅 2026-08-12 - A fully configurable and extendable Git hook manager.
+* [Lefthook](https://github.com/Arkweid/lefthook) ⭐ 8,723 | 🐛 91 | 🌐 Go | 📅 2026-08-24 - Fast and powerful Git hooks manager for any type of projects.
+* [overcommit](https://github.com/brigade/overcommit/) ⭐ 4,008 | 🐛 33 | 🌐 Ruby | 📅 2026-08-12 - A fully configurable and extendable Git hook manager.
 * [Komondor](https://github.com/orta/Komondor) ⭐ 559 | 🐛 23 | 🌐 Swift | 📅 2023-03-02 - Git Hooks for Swift projects.
 * [Githooks](https://github.com/rycus86/githooks) ⭐ 401 | 🐛 16 | 🌐 Shell | 📅 2025-08-26 - Auto-install Git hook, that supports hooks in any language checked into Git and also shared repos.
 * [Grunt GitHooks](https://github.com/wecodemore/grunt-githooks) ⭐ 315 | 🐛 13 | 🌐 JavaScript | 📅 2022-08-03 - Setup, manage and update your hooks with Grunt. Can be used with all languages, supports templates.
@@ -79,7 +79,7 @@ Git Hooks are scripts that run automatically every time a particular event occur
 
 ## Support
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/aitemr/awesome-git-hooks/issues/new) ⭐ 977 | 🐛 3 | 🌐 Shell | 📅 2026-01-19. If you want to contribute, please read the [guide](./contributing.md).
+If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/aitemr/awesome-git-hooks/issues/new) ⭐ 978 | 🐛 3 | 🌐 Shell | 📅 2026-01-19. If you want to contribute, please read the [guide](./contributing.md).
 
 ## License
 
@@ -89,4 +89,4 @@ To the extent possible under law, [Islam Temirbek](https://aitemr.github.io) has
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
