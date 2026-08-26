@@ -186,7 +186,7 @@
             "last_commit": "2026-03-19T23:03:16Z",
             "owner": "typicode",
             "repo": "husky",
-            "stars": 35283
+            "stars": 35284
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-08-17T23:37:08Z",
             "owner": "pre-commit",
             "repo": "pre-commit",
-            "stars": 15532
+            "stars": 15537
           }
         },
         {
@@ -213,10 +213,10 @@
             "archived": false,
             "id": 169250119,
             "language": "Go",
-            "last_commit": "2026-08-24T09:22:07Z",
+            "last_commit": "2026-08-25T14:37:45Z",
             "owner": "evilmartians",
             "repo": "lefthook",
-            "stars": 8723
+            "stars": 8728
           }
         },
         {
@@ -303,7 +303,7 @@
             "archived": false,
             "id": 66737553,
             "language": "Go",
-            "last_commit": "2026-08-22T18:10:35Z",
+            "last_commit": "2026-08-26T02:27:08Z",
             "owner": "dirk",
             "repo": "quickhook",
             "stars": 62
@@ -342,7 +342,7 @@
             "last_commit": "2026-08-20T23:45:52Z",
             "owner": "lolcommits",
             "repo": "lolcommits",
-            "stars": 4816
+            "stars": 4815
           }
         },
         {
@@ -440,7 +440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:10:25.546Z",
+    "last_updated": "2026-08-26T04:09:05.467Z",
     "original_repository": "aitemr/awesome-git-hooks",
     "original_repository_id": 159375334,
     "original_repository_sha": "4b6217452fe422014378b2e506e5f4bee615eeab",
