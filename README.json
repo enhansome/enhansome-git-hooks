@@ -16,7 +16,8 @@
             "owner": "aitemr",
             "repo": "awesome-git-hooks",
             "stars": 978
-          }
+          },
+          "first_seen": "2026-08-28T15:32:45.071Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "aitemr",
             "repo": "awesome-git-hooks",
             "stars": 978
-          }
+          },
+          "first_seen": "2026-08-28T15:32:45.071Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "aitemr",
             "repo": "awesome-git-hooks",
             "stars": 978
-          }
+          },
+          "first_seen": "2026-08-28T15:32:45.071Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "aitemr",
             "repo": "awesome-git-hooks",
             "stars": 978
-          }
+          },
+          "first_seen": "2026-08-28T15:32:45.071Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "aitemr",
             "repo": "awesome-git-hooks",
             "stars": 978
-          }
+          },
+          "first_seen": "2026-08-28T15:32:45.071Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "aitemr",
             "repo": "awesome-git-hooks",
             "stars": 978
-          }
+          },
+          "first_seen": "2026-08-28T15:32:45.071Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "aitemr",
             "repo": "awesome-git-hooks",
             "stars": 978
-          }
+          },
+          "first_seen": "2026-08-28T15:32:45.071Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "aitemr",
             "repo": "awesome-git-hooks",
             "stars": 978
-          }
+          },
+          "first_seen": "2026-08-28T15:32:45.071Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "aitemr",
             "repo": "awesome-git-hooks",
             "stars": 978
-          }
+          },
+          "first_seen": "2026-08-28T15:32:45.071Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "aitemr",
             "repo": "awesome-git-hooks",
             "stars": 978
-          }
+          },
+          "first_seen": "2026-08-28T15:32:45.071Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "aitemr",
             "repo": "awesome-git-hooks",
             "stars": 978
-          }
+          },
+          "first_seen": "2026-08-28T15:32:45.071Z"
         }
       ],
       "title": "Useful Git Hooks scripts"
@@ -186,8 +197,9 @@
             "last_commit": "2026-03-19T23:03:16Z",
             "owner": "typicode",
             "repo": "husky",
-            "stars": 35288
-          }
+            "stars": 35291
+          },
+          "first_seen": "2026-08-28T15:32:45.071Z"
         },
         {
           "node_type": "item",
@@ -201,8 +213,9 @@
             "last_commit": "2026-08-17T23:37:08Z",
             "owner": "pre-commit",
             "repo": "pre-commit",
-            "stars": 15539
-          }
+            "stars": 15542
+          },
+          "first_seen": "2026-08-28T15:32:45.071Z"
         },
         {
           "node_type": "item",
@@ -213,11 +226,12 @@
             "archived": false,
             "id": 169250119,
             "language": "Go",
-            "last_commit": "2026-08-25T14:37:45Z",
+            "last_commit": "2026-08-28T10:16:45Z",
             "owner": "evilmartians",
             "repo": "lefthook",
-            "stars": 8733
-          }
+            "stars": 8735
+          },
+          "first_seen": "2026-08-28T15:32:45.071Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "sds",
             "repo": "overcommit",
             "stars": 4007
-          }
+          },
+          "first_seen": "2026-08-28T15:32:45.071Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "shibapm",
             "repo": "Komondor",
             "stars": 559
-          }
+          },
+          "first_seen": "2026-08-28T15:32:45.071Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "rycus86",
             "repo": "githooks",
             "stars": 401
-          }
+          },
+          "first_seen": "2026-08-28T15:32:45.071Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "wecodemore",
             "repo": "grunt-githooks",
             "stars": 315
-          }
+          },
+          "first_seen": "2026-08-28T15:32:45.071Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "Autohook",
             "repo": "Autohook",
             "stars": 141
-          }
+          },
+          "first_seen": "2026-08-28T15:32:45.071Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "dirk",
             "repo": "quickhook",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T15:32:45.071Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "mstranne",
             "repo": "GitHooksVS",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T15:32:45.071Z"
         }
       ],
       "title": "Tools"
@@ -343,7 +364,8 @@
             "owner": "lolcommits",
             "repo": "lolcommits",
             "stars": 4815
-          }
+          },
+          "first_seen": "2026-08-28T15:32:45.071Z"
         },
         {
           "node_type": "item",
@@ -358,7 +380,8 @@
             "owner": "wecodemore",
             "repo": "GitPHPHooks",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T15:32:45.071Z"
         },
         {
           "node_type": "item",
@@ -373,7 +396,8 @@
             "owner": "bmwant",
             "repo": "podmena",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T15:32:45.071Z"
         },
         {
           "node_type": "item",
@@ -388,7 +412,8 @@
             "owner": "sparkbox",
             "repo": "commit-colors",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T15:32:45.071Z"
         },
         {
           "node_type": "item",
@@ -403,7 +428,8 @@
             "owner": "gnustavo",
             "repo": "Git-Hooks",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T15:32:45.071Z"
         },
         {
           "node_type": "item",
@@ -418,7 +444,8 @@
             "owner": "BernardoSilva",
             "repo": "git-hooks-php",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T15:32:45.071Z"
         },
         {
           "node_type": "item",
@@ -433,14 +460,15 @@
             "owner": "elpete",
             "repo": "commandbox-githooks",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T15:32:45.071Z"
         }
       ],
       "title": "Projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T14:24:04.517Z",
+    "last_updated": "2026-08-28T15:32:45.071Z",
     "original_repository_info": {
       "archived": false,
       "id": 159375334,
