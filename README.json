@@ -311,7 +311,7 @@
             "open_issues": 108,
             "owner": "typicode",
             "repo": "husky",
-            "stars": 35293,
+            "stars": 35292,
             "topics": [
               "commit",
               "git",
@@ -718,7 +718,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:37:34.741Z",
+    "last_updated": "2026-08-29T10:17:05.396Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A collection of awesome Git Hooks",
