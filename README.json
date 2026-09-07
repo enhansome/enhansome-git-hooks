@@ -311,7 +311,7 @@
             "open_issues": 108,
             "owner": "typicode",
             "repo": "husky",
-            "stars": 35307,
+            "stars": 35308,
             "topics": [
               "commit",
               "git",
@@ -337,7 +337,7 @@
             "open_issues": 26,
             "owner": "pre-commit",
             "repo": "pre-commit",
-            "stars": 15555,
+            "stars": 15559,
             "topics": [
               "git",
               "linter",
@@ -360,11 +360,11 @@
             "id": 169250119,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-08-31T10:23:00Z",
-            "open_issues": 104,
+            "last_commit": "2026-09-07T07:37:02Z",
+            "open_issues": 98,
             "owner": "evilmartians",
             "repo": "lefthook",
-            "stars": 8776,
+            "stars": 8782,
             "topics": [
               "git",
               "go",
@@ -440,7 +440,7 @@
             "open_issues": 16,
             "owner": "rycus86",
             "repo": "githooks",
-            "stars": 401,
+            "stars": 402,
             "topics": []
           },
           "first_seen": "2026-08-28T15:32:45.071Z"
@@ -461,7 +461,7 @@
             "open_issues": 13,
             "owner": "wecodemore",
             "repo": "grunt-githooks",
-            "stars": 315,
+            "stars": 316,
             "topics": []
           },
           "first_seen": "2026-08-28T15:32:45.071Z"
@@ -718,7 +718,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T08:01:17.920Z",
+    "last_updated": "2026-09-07T08:31:48.022Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A collection of awesome Git Hooks",
