@@ -311,7 +311,7 @@
             "open_issues": 108,
             "owner": "typicode",
             "repo": "husky",
-            "stars": 35310,
+            "stars": 35311,
             "topics": [
               "commit",
               "git",
@@ -334,10 +334,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-17T23:37:08Z",
-            "open_issues": 27,
+            "open_issues": 26,
             "owner": "pre-commit",
             "repo": "pre-commit",
-            "stars": 15568,
+            "stars": 15567,
             "topics": [
               "git",
               "linter",
@@ -364,7 +364,7 @@
             "open_issues": 99,
             "owner": "evilmartians",
             "repo": "lefthook",
-            "stars": 8801,
+            "stars": 8805,
             "topics": [
               "git",
               "go",
@@ -390,7 +390,7 @@
             "language": "Ruby",
             "license": "MIT",
             "last_commit": "2026-09-06T07:06:51Z",
-            "open_issues": 33,
+            "open_issues": 34,
             "owner": "sds",
             "repo": "overcommit",
             "stars": 4006,
@@ -556,7 +556,7 @@
             "id": 2499845,
             "language": "Ruby",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-05T21:15:56Z",
+            "last_commit": "2026-09-11T21:20:50Z",
             "open_issues": 40,
             "owner": "lolcommits",
             "repo": "lolcommits",
@@ -718,7 +718,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T08:11:59.233Z",
+    "last_updated": "2026-09-12T08:02:14.908Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A collection of awesome Git Hooks",
