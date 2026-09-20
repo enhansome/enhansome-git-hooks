@@ -337,7 +337,7 @@
             "open_issues": 26,
             "owner": "pre-commit",
             "repo": "pre-commit",
-            "stars": 15585,
+            "stars": 15586,
             "topics": [
               "git",
               "linter",
@@ -361,10 +361,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-14T10:20:42Z",
-            "open_issues": 101,
+            "open_issues": 100,
             "owner": "evilmartians",
             "repo": "lefthook",
-            "stars": 8827,
+            "stars": 8832,
             "topics": [
               "git",
               "go",
@@ -393,7 +393,7 @@
             "open_issues": 35,
             "owner": "sds",
             "repo": "overcommit",
-            "stars": 4006,
+            "stars": 4004,
             "topics": []
           },
           "first_seen": "2026-08-28T15:32:45.071Z"
@@ -440,7 +440,7 @@
             "open_issues": 16,
             "owner": "rycus86",
             "repo": "githooks",
-            "stars": 402,
+            "stars": 401,
             "topics": []
           },
           "first_seen": "2026-08-28T15:32:45.071Z"
@@ -482,7 +482,7 @@
             "open_issues": 4,
             "owner": "Autohook",
             "repo": "Autohook",
-            "stars": 141,
+            "stars": 140,
             "topics": [
               "bash",
               "git"
@@ -718,7 +718,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T08:11:41.417Z",
+    "last_updated": "2026-09-20T08:44:00.279Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A collection of awesome Git Hooks",
