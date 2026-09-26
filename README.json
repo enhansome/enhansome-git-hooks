@@ -311,7 +311,7 @@
             "open_issues": 107,
             "owner": "typicode",
             "repo": "husky",
-            "stars": 35332,
+            "stars": 35334,
             "topics": [
               "commit",
               "git",
@@ -334,10 +334,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-17T23:37:08Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "pre-commit",
             "repo": "pre-commit",
-            "stars": 15594,
+            "stars": 15595,
             "topics": [
               "git",
               "linter",
@@ -364,7 +364,7 @@
             "open_issues": 90,
             "owner": "evilmartians",
             "repo": "lefthook",
-            "stars": 8852,
+            "stars": 8856,
             "topics": [
               "git",
               "go",
@@ -718,7 +718,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T08:58:44.927Z",
+    "last_updated": "2026-09-26T08:45:35.936Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A collection of awesome Git Hooks",
