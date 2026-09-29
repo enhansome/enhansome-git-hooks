@@ -333,11 +333,11 @@
             "id": 17689377,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-17T23:37:08Z",
-            "open_issues": 25,
+            "last_commit": "2026-09-28T21:37:38Z",
+            "open_issues": 26,
             "owner": "pre-commit",
             "repo": "pre-commit",
-            "stars": 15600,
+            "stars": 15601,
             "topics": [
               "git",
               "linter",
@@ -360,11 +360,11 @@
             "id": 169250119,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-28T09:50:25Z",
-            "open_issues": 89,
+            "last_commit": "2026-09-28T10:13:27Z",
+            "open_issues": 88,
             "owner": "evilmartians",
             "repo": "lefthook",
-            "stars": 8861,
+            "stars": 8868,
             "topics": [
               "git",
               "go",
@@ -393,7 +393,7 @@
             "open_issues": 35,
             "owner": "sds",
             "repo": "overcommit",
-            "stars": 4004,
+            "stars": 4005,
             "topics": []
           },
           "first_seen": "2026-08-28T15:32:45.071Z"
@@ -560,7 +560,7 @@
             "open_issues": 40,
             "owner": "lolcommits",
             "repo": "lolcommits",
-            "stars": 4819,
+            "stars": 4821,
             "topics": [
               "git",
               "git-addons",
@@ -718,7 +718,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T10:02:00.313Z",
+    "last_updated": "2026-09-29T10:01:03.021Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A collection of awesome Git Hooks",
