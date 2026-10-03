@@ -5,298 +5,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "pre-commit",
-          "description": "This hook is called before obtaining the proposed commit message.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "😎 A collection of awesome Git Hooks",
-            "homepage": null,
-            "id": 159375334,
-            "language": "Shell",
-            "license": "CC0-1.0",
-            "last_commit": "2026-01-19T11:34:43Z",
-            "open_issues": 4,
-            "owner": "aitemr",
-            "repo": "awesome-git-hooks",
-            "stars": 979,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "bash",
-              "git-hooks"
-            ]
-          },
-          "first_seen": "2026-08-28T15:32:45.071Z"
-        },
-        {
-          "node_type": "item",
-          "title": "prepare-commit-msg",
-          "description": "Called after receiving the default commit message, just prior to firing up the commit message editor.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "😎 A collection of awesome Git Hooks",
-            "homepage": null,
-            "id": 159375334,
-            "language": "Shell",
-            "license": "CC0-1.0",
-            "last_commit": "2026-01-19T11:34:43Z",
-            "open_issues": 4,
-            "owner": "aitemr",
-            "repo": "awesome-git-hooks",
-            "stars": 979,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "bash",
-              "git-hooks"
-            ]
-          },
-          "first_seen": "2026-08-28T15:32:45.071Z"
-        },
-        {
-          "node_type": "item",
-          "title": "pre-receive",
-          "description": "This is called on the remote repo just before updating the pushed refs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "😎 A collection of awesome Git Hooks",
-            "homepage": null,
-            "id": 159375334,
-            "language": "Shell",
-            "license": "CC0-1.0",
-            "last_commit": "2026-01-19T11:34:43Z",
-            "open_issues": 4,
-            "owner": "aitemr",
-            "repo": "awesome-git-hooks",
-            "stars": 979,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "bash",
-              "git-hooks"
-            ]
-          },
-          "first_seen": "2026-08-28T15:32:45.071Z"
-        },
-        {
-          "node_type": "item",
-          "title": "commit-msg",
-          "description": "Can be used to adjust the message after it has been edited in order to ensure conformity to a standard or to reject based on any criteria.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "😎 A collection of awesome Git Hooks",
-            "homepage": null,
-            "id": 159375334,
-            "language": "Shell",
-            "license": "CC0-1.0",
-            "last_commit": "2026-01-19T11:34:43Z",
-            "open_issues": 4,
-            "owner": "aitemr",
-            "repo": "awesome-git-hooks",
-            "stars": 979,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "bash",
-              "git-hooks"
-            ]
-          },
-          "first_seen": "2026-08-28T15:32:45.071Z"
-        },
-        {
-          "node_type": "item",
-          "title": "pre-push",
-          "description": "Called prior to a push to a remote. In addition to the parameters, additional information, separated by a space is passed in through stdin in the form of .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "😎 A collection of awesome Git Hooks",
-            "homepage": null,
-            "id": 159375334,
-            "language": "Shell",
-            "license": "CC0-1.0",
-            "last_commit": "2026-01-19T11:34:43Z",
-            "open_issues": 4,
-            "owner": "aitemr",
-            "repo": "awesome-git-hooks",
-            "stars": 979,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "bash",
-              "git-hooks"
-            ]
-          },
-          "first_seen": "2026-08-28T15:32:45.071Z"
-        },
-        {
-          "node_type": "item",
-          "title": "pre-auto-gc",
-          "description": "Is used to do some checks before automatically cleaning repos.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "😎 A collection of awesome Git Hooks",
-            "homepage": null,
-            "id": 159375334,
-            "language": "Shell",
-            "license": "CC0-1.0",
-            "last_commit": "2026-01-19T11:34:43Z",
-            "open_issues": 4,
-            "owner": "aitemr",
-            "repo": "awesome-git-hooks",
-            "stars": 979,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "bash",
-              "git-hooks"
-            ]
-          },
-          "first_seen": "2026-08-28T15:32:45.071Z"
-        },
-        {
-          "node_type": "item",
-          "title": "pre-rebase",
-          "description": "Called when rebasing a branch. Mainly used to halt the rebase if it is not desirable.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "😎 A collection of awesome Git Hooks",
-            "homepage": null,
-            "id": 159375334,
-            "language": "Shell",
-            "license": "CC0-1.0",
-            "last_commit": "2026-01-19T11:34:43Z",
-            "open_issues": 4,
-            "owner": "aitemr",
-            "repo": "awesome-git-hooks",
-            "stars": 979,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "bash",
-              "git-hooks"
-            ]
-          },
-          "first_seen": "2026-08-28T15:32:45.071Z"
-        },
-        {
-          "node_type": "item",
-          "title": "applypatch-msg",
-          "description": "Can edit the commit message file and is often used to verify or actively format a patch's message to a project's standards.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "😎 A collection of awesome Git Hooks",
-            "homepage": null,
-            "id": 159375334,
-            "language": "Shell",
-            "license": "CC0-1.0",
-            "last_commit": "2026-01-19T11:34:43Z",
-            "open_issues": 4,
-            "owner": "aitemr",
-            "repo": "awesome-git-hooks",
-            "stars": 979,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "bash",
-              "git-hooks"
-            ]
-          },
-          "first_seen": "2026-08-28T15:32:45.071Z"
-        },
-        {
-          "node_type": "item",
-          "title": "post-receive",
-          "description": "This is run on the remote when pushing after the all refs have been updated. It does not take parameters, but receives info through stdin in the form of .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "😎 A collection of awesome Git Hooks",
-            "homepage": null,
-            "id": 159375334,
-            "language": "Shell",
-            "license": "CC0-1.0",
-            "last_commit": "2026-01-19T11:34:43Z",
-            "open_issues": 4,
-            "owner": "aitemr",
-            "repo": "awesome-git-hooks",
-            "stars": 979,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "bash",
-              "git-hooks"
-            ]
-          },
-          "first_seen": "2026-08-28T15:32:45.071Z"
-        },
-        {
-          "node_type": "item",
-          "title": "post-rewrite",
-          "description": "This is called when git commands are rewriting already committed data.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "😎 A collection of awesome Git Hooks",
-            "homepage": null,
-            "id": 159375334,
-            "language": "Shell",
-            "license": "CC0-1.0",
-            "last_commit": "2026-01-19T11:34:43Z",
-            "open_issues": 4,
-            "owner": "aitemr",
-            "repo": "awesome-git-hooks",
-            "stars": 979,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "bash",
-              "git-hooks"
-            ]
-          },
-          "first_seen": "2026-08-28T15:32:45.071Z"
-        },
-        {
-          "node_type": "item",
-          "title": "post-commit",
-          "description": "Called after a successful commit. Useful for triggering notifications, etc.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "😎 A collection of awesome Git Hooks",
-            "homepage": null,
-            "id": 159375334,
-            "language": "Shell",
-            "license": "CC0-1.0",
-            "last_commit": "2026-01-19T11:34:43Z",
-            "open_issues": 4,
-            "owner": "aitemr",
-            "repo": "awesome-git-hooks",
-            "stars": 979,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "bash",
-              "git-hooks"
-            ]
-          },
-          "first_seen": "2026-08-28T15:32:45.071Z"
-        }
-      ],
-      "title": "Useful Git Hooks scripts"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
           "title": "Husky",
           "description": "Git hooks made easy.",
           "children": [],
@@ -311,7 +19,7 @@
             "open_issues": 107,
             "owner": "typicode",
             "repo": "husky",
-            "stars": 35336,
+            "stars": 35337,
             "topics": [
               "commit",
               "git",
@@ -337,7 +45,7 @@
             "open_issues": 25,
             "owner": "pre-commit",
             "repo": "pre-commit",
-            "stars": 15606,
+            "stars": 15609,
             "topics": [
               "git",
               "linter",
@@ -360,7 +68,7 @@
             "id": 169250119,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-01T17:24:38Z",
+            "last_commit": "2026-10-02T10:31:40Z",
             "open_issues": 88,
             "owner": "evilmartians",
             "repo": "lefthook",
@@ -718,7 +426,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T09:57:30.632Z",
+    "last_updated": "2026-10-03T04:45:47.760Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A collection of awesome Git Hooks",
