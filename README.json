@@ -68,11 +68,11 @@
             "id": 169250119,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-02T10:31:40Z",
-            "open_issues": 88,
+            "last_commit": "2026-10-03T07:46:50Z",
+            "open_issues": 85,
             "owner": "evilmartians",
             "repo": "lefthook",
-            "stars": 8878,
+            "stars": 8880,
             "topics": [
               "git",
               "go",
@@ -426,7 +426,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:45:47.760Z",
+    "last_updated": "2026-10-03T09:19:31.669Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A collection of awesome Git Hooks",
