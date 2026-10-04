@@ -42,7 +42,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-29T20:45:16Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "pre-commit",
             "repo": "pre-commit",
             "stars": 15609,
@@ -68,11 +68,11 @@
             "id": 169250119,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-03T07:46:50Z",
-            "open_issues": 85,
+            "last_commit": "2026-10-03T20:39:31Z",
+            "open_issues": 84,
             "owner": "evilmartians",
             "repo": "lefthook",
-            "stars": 8880,
+            "stars": 8883,
             "topics": [
               "git",
               "go",
@@ -426,7 +426,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T09:19:31.669Z",
+    "last_updated": "2026-10-04T09:58:54.293Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A collection of awesome Git Hooks",
