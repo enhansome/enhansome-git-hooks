@@ -41,11 +41,11 @@
             "id": 17689377,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-19T21:42:16Z",
-            "open_issues": 26,
+            "last_commit": "2026-10-20T17:15:55Z",
+            "open_issues": 25,
             "owner": "pre-commit",
             "repo": "pre-commit",
-            "stars": 15644,
+            "stars": 15646,
             "topics": [
               "git",
               "linter",
@@ -69,10 +69,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-19T08:00:49Z",
-            "open_issues": 88,
+            "open_issues": 89,
             "owner": "evilmartians",
             "repo": "lefthook",
-            "stars": 8927,
+            "stars": 8928,
             "topics": [
               "git",
               "go",
@@ -268,7 +268,7 @@
             "open_issues": 40,
             "owner": "lolcommits",
             "repo": "lolcommits",
-            "stars": 4821,
+            "stars": 4822,
             "topics": [
               "git",
               "git-addons",
@@ -426,7 +426,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T08:45:12.684Z",
+    "last_updated": "2026-10-21T08:45:35.240Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A collection of awesome Git Hooks",
@@ -438,7 +438,7 @@
       "open_issues": 3,
       "owner": "aitemr",
       "repo": "awesome-git-hooks",
-      "stars": 982,
+      "stars": 983,
       "topics": [
         "awesome",
         "awesome-list",
