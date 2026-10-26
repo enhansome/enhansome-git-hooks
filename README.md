@@ -29,10 +29,10 @@ Git Hooks are scripts that run automatically every time a particular event occur
 
 ## Tools
 
-* [Husky](https://github.com/typicode/husky) ⭐ 35,361 | 🐛 108 | 🌐 JavaScript | 📅 2026-03-19 - Git hooks made easy.
-* [pre-commit](https://github.com/pre-commit/pre-commit) ⭐ 15,660 | 🐛 25 | 🌐 Python | 📅 2026-10-20 - A framework for managing and maintaining multi-language pre-commit hooks.
-* [Lefthook](https://github.com/Arkweid/lefthook) ⭐ 8,947 | 🐛 98 | 🌐 Go | 📅 2026-10-21 - Fast and powerful Git hooks manager for any type of projects.
-* [overcommit](https://github.com/brigade/overcommit/) ⭐ 4,006 | 🐛 35 | 🌐 Ruby | 📅 2026-10-21 - A fully configurable and extendable Git hook manager.
+* [Husky](https://github.com/typicode/husky) ⭐ 35,363 | 🐛 109 | 🌐 JavaScript | 📅 2026-03-19 - Git hooks made easy.
+* [pre-commit](https://github.com/pre-commit/pre-commit) ⭐ 15,663 | 🐛 25 | 🌐 Python | 📅 2026-10-20 - A framework for managing and maintaining multi-language pre-commit hooks.
+* [Lefthook](https://github.com/Arkweid/lefthook) ⭐ 8,950 | 🐛 102 | 🌐 Go | 📅 2026-10-26 - Fast and powerful Git hooks manager for any type of projects.
+* [overcommit](https://github.com/brigade/overcommit/) ⭐ 4,006 | 🐛 36 | 🌐 Ruby | 📅 2026-10-21 - A fully configurable and extendable Git hook manager.
 * [Komondor](https://github.com/orta/Komondor) ⭐ 558 | 🐛 23 | 🌐 Swift | 📅 2023-03-02 - Git Hooks for Swift projects.
 * [Githooks](https://github.com/rycus86/githooks) ⭐ 402 | 🐛 16 | 🌐 Shell | 📅 2025-08-26 - Auto-install Git hook, that supports hooks in any language checked into Git and also shared repos.
 * [Grunt GitHooks](https://github.com/wecodemore/grunt-githooks) ⭐ 316 | 🐛 13 | 🌐 JavaScript | 📅 2022-08-03 - Setup, manage and update your hooks with Grunt. Can be used with all languages, supports templates.
@@ -89,4 +89,4 @@ To the extent possible under law, [Islam Temirbek](https://aitemr.github.io) has
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
