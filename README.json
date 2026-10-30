@@ -45,7 +45,7 @@
             "open_issues": 25,
             "owner": "pre-commit",
             "repo": "pre-commit",
-            "stars": 15673,
+            "stars": 15672,
             "topics": [
               "git",
               "linter",
@@ -72,7 +72,7 @@
             "open_issues": 105,
             "owner": "evilmartians",
             "repo": "lefthook",
-            "stars": 8958,
+            "stars": 8966,
             "topics": [
               "git",
               "go",
@@ -101,7 +101,7 @@
             "open_issues": 36,
             "owner": "sds",
             "repo": "overcommit",
-            "stars": 4006,
+            "stars": 4005,
             "topics": []
           },
           "first_seen": "2026-08-28T15:32:45.071Z"
@@ -119,7 +119,7 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2023-03-02T19:05:18Z",
-            "open_issues": 23,
+            "open_issues": 22,
             "owner": "shibapm",
             "repo": "Komondor",
             "stars": 558,
@@ -264,11 +264,11 @@
             "id": 2499845,
             "language": "Ruby",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-28T02:15:55Z",
+            "last_commit": "2026-10-29T21:16:03Z",
             "open_issues": 40,
             "owner": "lolcommits",
             "repo": "lolcommits",
-            "stars": 4820,
+            "stars": 4819,
             "topics": [
               "git",
               "git-addons",
@@ -426,7 +426,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T10:16:30.742Z",
+    "last_updated": "2026-10-30T10:18:24.666Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A collection of awesome Git Hooks",
