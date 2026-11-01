@@ -29,8 +29,8 @@ Git Hooks are scripts that run automatically every time a particular event occur
 
 ## Tools
 
-* [Husky](https://github.com/typicode/husky) ⭐ 35,371 | 🐛 109 | 🌐 JavaScript | 📅 2026-03-19 - Git hooks made easy.
-* [pre-commit](https://github.com/pre-commit/pre-commit) ⭐ 15,673 | 🐛 25 | 🌐 Python | 📅 2026-10-20 - A framework for managing and maintaining multi-language pre-commit hooks.
+* [Husky](https://github.com/typicode/husky) ⭐ 35,375 | 🐛 109 | 🌐 JavaScript | 📅 2026-03-19 - Git hooks made easy.
+* [pre-commit](https://github.com/pre-commit/pre-commit) ⭐ 15,675 | 🐛 25 | 🌐 Python | 📅 2026-10-20 - A framework for managing and maintaining multi-language pre-commit hooks.
 * [Lefthook](https://github.com/Arkweid/lefthook) ⭐ 8,968 | 🐛 106 | 🌐 Go | 📅 2026-10-26 - Fast and powerful Git hooks manager for any type of projects.
 * [overcommit](https://github.com/brigade/overcommit/) ⭐ 4,005 | 🐛 32 | 🌐 Ruby | 📅 2026-10-31 - A fully configurable and extendable Git hook manager.
 * [Komondor](https://github.com/orta/Komondor) ⭐ 558 | 🐛 22 | 🌐 Swift | 📅 2023-03-02 - Git Hooks for Swift projects.
@@ -89,4 +89,4 @@ To the extent possible under law, [Islam Temirbek](https://aitemr.github.io) has
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
