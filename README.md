@@ -29,9 +29,9 @@ Git Hooks are scripts that run automatically every time a particular event occur
 
 ## Tools
 
-* [Husky](https://github.com/typicode/husky) ⭐ 35,383 | 🐛 109 | 🌐 JavaScript | 📅 2026-03-19 - Git hooks made easy.
-* [pre-commit](https://github.com/pre-commit/pre-commit) ⭐ 15,686 | 🐛 25 | 🌐 Python | 📅 2026-11-04 - A framework for managing and maintaining multi-language pre-commit hooks.
-* [Lefthook](https://github.com/Arkweid/lefthook) ⭐ 9,010 | 🐛 113 | 🌐 Go | 📅 2026-11-06 - Fast and powerful Git hooks manager for any type of projects.
+* [Husky](https://github.com/typicode/husky) ⭐ 35,384 | 🐛 109 | 🌐 JavaScript | 📅 2026-03-19 - Git hooks made easy.
+* [pre-commit](https://github.com/pre-commit/pre-commit) ⭐ 15,688 | 🐛 25 | 🌐 Python | 📅 2026-11-04 - A framework for managing and maintaining multi-language pre-commit hooks.
+* [Lefthook](https://github.com/Arkweid/lefthook) ⭐ 9,013 | 🐛 114 | 🌐 Go | 📅 2026-11-06 - Fast and powerful Git hooks manager for any type of projects.
 * [overcommit](https://github.com/brigade/overcommit/) ⭐ 4,005 | 🐛 33 | 🌐 Ruby | 📅 2026-11-06 - A fully configurable and extendable Git hook manager.
 * [Komondor](https://github.com/orta/Komondor) ⭐ 558 | 🐛 22 | 🌐 Swift | 📅 2023-03-02 - Git Hooks for Swift projects.
 * [Githooks](https://github.com/rycus86/githooks) ⭐ 402 | 🐛 16 | 🌐 Shell | 📅 2025-08-26 - Auto-install Git hook, that supports hooks in any language checked into Git and also shared repos.
@@ -89,4 +89,4 @@ To the extent possible under law, [Islam Temirbek](https://aitemr.github.io) has
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
