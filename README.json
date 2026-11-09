@@ -19,7 +19,7 @@
             "open_issues": 109,
             "owner": "typicode",
             "repo": "husky",
-            "stars": 35384,
+            "stars": 35385,
             "topics": [
               "commit",
               "git",
@@ -426,7 +426,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T10:38:27.065Z",
+    "last_updated": "2026-11-09T11:55:08.412Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A collection of awesome Git Hooks",
@@ -438,7 +438,7 @@
       "open_issues": 4,
       "owner": "aitemr",
       "repo": "awesome-git-hooks",
-      "stars": 986,
+      "stars": 987,
       "topics": [
         "awesome",
         "awesome-list",

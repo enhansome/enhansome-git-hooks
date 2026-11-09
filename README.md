@@ -29,7 +29,7 @@ Git Hooks are scripts that run automatically every time a particular event occur
 
 ## Tools
 
-* [Husky](https://github.com/typicode/husky) ⭐ 35,384 | 🐛 109 | 🌐 JavaScript | 📅 2026-03-19 - Git hooks made easy.
+* [Husky](https://github.com/typicode/husky) ⭐ 35,385 | 🐛 109 | 🌐 JavaScript | 📅 2026-03-19 - Git hooks made easy.
 * [pre-commit](https://github.com/pre-commit/pre-commit) ⭐ 15,688 | 🐛 25 | 🌐 Python | 📅 2026-11-04 - A framework for managing and maintaining multi-language pre-commit hooks.
 * [Lefthook](https://github.com/Arkweid/lefthook) ⭐ 9,013 | 🐛 114 | 🌐 Go | 📅 2026-11-06 - Fast and powerful Git hooks manager for any type of projects.
 * [overcommit](https://github.com/brigade/overcommit/) ⭐ 4,005 | 🐛 33 | 🌐 Ruby | 📅 2026-11-06 - A fully configurable and extendable Git hook manager.
@@ -89,4 +89,4 @@ To the extent possible under law, [Islam Temirbek](https://aitemr.github.io) has
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
