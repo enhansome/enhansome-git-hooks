@@ -29,9 +29,9 @@ Git Hooks are scripts that run automatically every time a particular event occur
 
 ## Tools
 
-* [Husky](https://github.com/typicode/husky) ⭐ 35,392 | 🐛 111 | 🌐 JavaScript | 📅 2026-03-19 - Git hooks made easy.
-* [pre-commit](https://github.com/pre-commit/pre-commit) ⭐ 15,696 | 🐛 25 | 🌐 Python | 📅 2026-11-09 - A framework for managing and maintaining multi-language pre-commit hooks.
-* [Lefthook](https://github.com/Arkweid/lefthook) ⭐ 9,037 | 🐛 112 | 🌐 Go | 📅 2026-11-16 - Fast and powerful Git hooks manager for any type of projects.
+* [Husky](https://github.com/typicode/husky) ⭐ 35,393 | 🐛 111 | 🌐 JavaScript | 📅 2026-03-19 - Git hooks made easy.
+* [pre-commit](https://github.com/pre-commit/pre-commit) ⭐ 15,700 | 🐛 25 | 🌐 Python | 📅 2026-11-09 - A framework for managing and maintaining multi-language pre-commit hooks.
+* [Lefthook](https://github.com/Arkweid/lefthook) ⭐ 9,040 | 🐛 112 | 🌐 Go | 📅 2026-11-16 - Fast and powerful Git hooks manager for any type of projects.
 * [overcommit](https://github.com/brigade/overcommit/) ⭐ 4,003 | 🐛 0 | 🌐 Ruby | 📅 2026-11-11 - A fully configurable and extendable Git hook manager.
 * [Komondor](https://github.com/orta/Komondor) ⭐ 558 | 🐛 22 | 🌐 Swift | 📅 2023-03-02 - Git Hooks for Swift projects.
 * [Githooks](https://github.com/rycus86/githooks) ⭐ 402 | 🐛 16 | 🌐 Shell | 📅 2025-08-26 - Auto-install Git hook, that supports hooks in any language checked into Git and also shared repos.
@@ -46,7 +46,7 @@ Git Hooks are scripts that run automatically every time a particular event occur
 * [Lolcommits](https://github.com/mroth/lolcommits) ⭐ 4,817 | 🐛 40 | 🌐 Ruby | 📅 2026-10-29 - Takes a snapshot with your webcam every time you git commit code, and archives a lolcat style image with it.
 * [GitPHPHooks](https://github.com/wecodemore/GitPHPHooks) ⭐ 65 | 🐛 1 | 🌐 PHP | 📅 2016-04-05 - Write your hooks in PHP, manage and organize them on a task and project level. Has an additional Hooks library on GitHub.
 * [Podmena](https://github.com/bmwant/podmena) ⭐ 64 | 🐛 0 | 🌐 Python | 📅 2022-03-07 - Enhance your commit messages adding random emoji to it.
-* [Commit Colors](https://github.com/sparkbox/commit-colors) ⭐ 44 | 🐛 2 | 🌐 Go | 📅 2022-11-13 - See a color swatch in your terminal every time you author a commit.
+* [Commit Colors](https://github.com/sparkbox/commit-colors) ⭐ 45 | 🐛 2 | 🌐 Go | 📅 2022-11-13 - See a color swatch in your terminal every time you author a commit.
 * [Git::Hooks](https://github.com/gnustavo/Git-Hooks) ⭐ 42 | 🐛 11 | 🌐 Perl | 📅 2024-06-16 - A framework for implementing Git (and Gerrit) hooks.
 * [git-hooks-php](https://github.com/BernardoSilva/git-hooks-php) ⭐ 25 | 🐛 0 | 🌐 Shell | 📅 2018-04-23 - Git hooks for PHP based projects.
 * [commandbox-githooks](https://github.com/elpete/commandbox-githooks) ⭐ 9 | 🐛 1 | 🌐 ColdFusion | 📅 2020-03-27 - Git hooks for CommandBox CFML based projects.
@@ -89,4 +89,4 @@ To the extent possible under law, [Islam Temirbek](https://aitemr.github.io) has
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
