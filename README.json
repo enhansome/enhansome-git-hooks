@@ -19,7 +19,7 @@
             "open_issues": 110,
             "owner": "typicode",
             "repo": "husky",
-            "stars": 35403,
+            "stars": 35405,
             "topics": [
               "commit",
               "git",
@@ -45,7 +45,7 @@
             "open_issues": 25,
             "owner": "pre-commit",
             "repo": "pre-commit",
-            "stars": 15713,
+            "stars": 15715,
             "topics": [
               "git",
               "linter",
@@ -68,11 +68,11 @@
             "id": 169250119,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-25T07:53:30Z",
+            "last_commit": "2026-11-26T09:33:05Z",
             "open_issues": 110,
             "owner": "evilmartians",
             "repo": "lefthook",
-            "stars": 9060,
+            "stars": 9061,
             "topics": [
               "git",
               "go",
@@ -268,7 +268,7 @@
             "open_issues": 39,
             "owner": "lolcommits",
             "repo": "lolcommits",
-            "stars": 4818,
+            "stars": 4820,
             "topics": [
               "git",
               "git-addons",
@@ -426,7 +426,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T13:16:53.758Z",
+    "last_updated": "2026-11-26T12:57:42.943Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A collection of awesome Git Hooks",
@@ -435,7 +435,7 @@
       "language": "Shell",
       "license": "CC0-1.0",
       "last_commit": "2026-01-19T11:34:43Z",
-      "open_issues": 4,
+      "open_issues": 5,
       "owner": "aitemr",
       "repo": "awesome-git-hooks",
       "stars": 988,
